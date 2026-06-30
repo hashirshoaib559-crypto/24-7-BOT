@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Hashir_op",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Hashir_op",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "Public25_S3.aternos.me",
+    "port": 15423,
     "version": "1.20.1",
     "try-creative": false
   },
